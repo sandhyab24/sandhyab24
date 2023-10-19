@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sandhya biradar</h1>
+<h1 align="center">Hi 👋, I'm Sandhya Biradar</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhyab24" alt="sandhyab24" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sandhya_biradar" target="blank"><img src="https://img.shields.io/twitter/follow/sandhya_biradar?logo=twitter&style=for-the-badge" alt="sandhya_biradar" /></a> </p>
 
-- 🔭 I’m currently working on **muZic app**
+- 🔭 I’m currently challenging myself with 100 days code 
 
-- 🌱 I’m currently learning **python and java**
+- 🌱 I’m learning **python and django**
 
-- 💬 Ask me about **python and**
+- 💬 Ask me anything about **prooblem solving, python **
 
 - 📫 How to reach me **sandhyabrdr24@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
