@@ -9,7 +9,7 @@
 
 - 🌱 I’m learning **python and django**
 
-- 💬 Ask me anything about **prooblem solving, python **
+- 💬 Ask me anything about prooblem solving, python
 
 - 📫 How to reach me **sandhyabrdr24@gmail.com**
 
